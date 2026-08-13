@@ -124,7 +124,5 @@ OUTPUT
      
      
      === Code Execution Successful ===
- FACULTY OF ENGINNERING & TECHNOLOGYDepartment of CSE- AI, ML & DS01AI0510-Software Engineering
 
-Enrollment no.92460118453|1
 
